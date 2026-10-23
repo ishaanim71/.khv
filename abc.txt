@@ -1,0 +1,373 @@
+Pikachu
+Partner Pikachu
+Pikachu artwork by Ken Sugimori
+
+Additional artwork
+
+Pokédex data
+National №	0025
+Type	Electric
+Species	Mouse Pokémon
+Height	0.4 m (1′04″)
+Weight	6.0 kg (13.2 lbs)
+Abilities	1. Static
+Lightning Rod (hidden ability)
+Local №	0025 (Yellow/Red/Blue)
+0022 (Gold/Silver/Crystal)
+0156 (Ruby/Sapphire/Emerald)
+0025 (FireRed/LeafGreen)
+0104 (Diamond/Pearl)
+0104 (Platinum)
+0022 (HeartGold/SoulSilver)
+0036 (X/Y — Central Kalos)
+0163 (Omega Ruby/Alpha Sapphire)
+0025 (Sun/Moon — Alola dex)
+0032 (U.Sun/U.Moon — Alola dex)
+0025 (Let's Go Pikachu/Let's Go Eevee)
+0194 (Sword/Shield)
+0104 (Brilliant Diamond/Shining Pearl)
+0056 (Legends: Arceus)
+0074 (Scarlet/Violet)
+0053 (Legends: Z-A)
+0085 (The Isle of Armor)
+0021 (The Teal Mask)
+Training
+EV yield	2 Speed
+Catch rate	190 (24.8% with PokéBall, full HP)
+Base Friendship	50 (normal)
+Base Exp.	112
+Growth Rate	Medium Fast
+Breeding
+Egg Groups	Fairy, Field
+Gender	50% male, 50% female
+Egg cycles	10 (2,314–2,570 steps)
+Base stats
+HP	35	
+180	274
+Attack	55	
+103	229
+Defense	40	
+76	196
+Sp. Atk	50	
+94	218
+Sp. Def	50	
+94	218
+Speed	90	
+166	306
+Total	320		Min	Max
+The ranges shown on the right are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
+
+Type defenses
+The effectiveness of each type on Pikachu.
+
+Static ability
+Lightning Rod ability
+Nor
+Fir
+Wat
+Ele
+Gra
+Ice
+Fig
+Poi
+Gro
+½					2
+Fly
+Psy
+Bug
+Roc
+Gho
+Dra
+Dar
+Ste
+Fai
+½							½	
+Evolution chart
+Pichu
+#0172
+Pichu
+Electric
+(high Friendship)
+Pikachu
+#0025
+Pikachu
+Electric
+(use Thunder Stone, outside Alola)
+Raichu
+#0026
+Raichu
+Electric
+(use Thunder Stone, in Alola)
+Alolan Raichu
+#0026
+Raichu
+Alolan Raichu
+Electric · Psychic
+Pikachu changes
+In Generation 1, Pikachu has a base Special stat of 50.
+In Generations 1-5, Pikachu has a base Defense of 30.
+In Generations 2-5, Pikachu has a base Special Defense of 40.
+In Generations 1-4, Pikachu has a base experience yield of 82.
+In Generation 5, Pikachu has a base experience yield of 105.
+In Pokémon Yellow, Pikachu has a base Friendship value of 90.
+In Generations 2-7, Pikachu has a base Friendship value of 70.
+Pokédex entries
+Pikachu
+Red
+Blue	When several of these POKéMON gather, their electricity could build and cause lightning storms.
+Yellow	It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.
+Gold	This intelligent POKéMON roasts hard BERRIES with electricity to make them tender enough to eat.
+Silver	It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.
+Crystal	When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+Ruby	Whenever PIKACHU comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it’s evidence that this POKéMON mistook the intensity of its charge.
+Sapphire	This POKéMON has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while PIKACHU sleeps. It occasionally discharges electricity when it is dozy after waking up.
+FireRed	It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.
+LeafGreen	When several of these POKéMON gather, their electricity can build and cause lightning storms.
+Emerald	It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.
+Diamond	It lives in forests with others. It stores electricity in the pouches on its cheeks.
+Pearl	If it looses crackling power from the electric pouches on its cheeks, it is being wary.
+Platinum	It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.
+HeartGold	This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.
+SoulSilver	It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.
+Black
+White
+Black 2
+White 2	It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
+X	It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.
+Y	It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.
+Omega Ruby	Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it’s evidence that this Pokémon mistook the intensity of its charge.
+Alpha Sapphire	This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.
+Sun	A plan was recently announced to gather many Pikachu and make an electric power plant.
+Moon	It’s in its nature to store electricity. It feels stressed now and then if it’s unable to fully discharge the electricity.
+Ultra Sun	Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.
+Ultra Moon	While sleeping, it generates electricity in the sacs in its cheeks. If it’s not getting enough sleep, it will be able to use only weak electricity.
+Let's Go Pikachu
+Let's Go Eevee	This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.
+Sword	Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.
+Shield	When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.
+Brilliant Diamond	It lives in forests with others. It stores electricity in the electric sacs on its cheeks.
+Shining Pearl	If it looses crackling power from the electric sacs on its cheeks, it is being wary.
+Legends: Arceus	Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.
+Scarlet	When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+Violet	When several of these Pokémon gather, their electricity can build and cause lightning storms.
+Cap Pikachu
+Sun
+Ultra Sun	This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.
+Moon
+Ultra Moon	This Pikachu is wearing its Trainer’s cap. Since the cap’s not the right size, the fit is a bit loose.
+World Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through different regions.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is a precious symbol that travels across different regions with Pikachu.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the world together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across the world.
+Unova Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Unova region.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Unova region together.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Unova region together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across the Unova region.
+Sinnoh Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Sinnoh region.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Sinnoh region together.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Sinnoh region together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across the Sinnoh region.
+Partner Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of when they first met.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is a precious symbol of a fateful encounter.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon traveling together with its partner, whom it met in a fateful encounter.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed as the two overcame many hardships together.
+Original Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through many different regions.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled across many regions together.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across lots of different regions together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across many different regions.
+Kalos Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Kalos region.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Kalos region together.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Kalos region together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across the Kalos region.
+Hoenn Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Hoenn region.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Hoenn region together.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Hoenn region together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across the Hoenn region.
+Alola Cap
+Sword	This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Alola region.
+Shield	This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Alola region together.
+Scarlet	The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Alola region together.
+Violet	This Pikachu wears its partner’s cap—proof of the strong bond Pikachu and its partner formed during adventures across the Alola region.
+Gigantamax
+Sword	Its Gigantamax power expanded, forming its supersized body and towering tail.
+Shield	When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
+Moves learned by Pikachu
+In other generations
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Legends: Z-A
+Scarlet/Violet
+Moves learnt by level up
+Pikachu learns the following moves in Pokémon Legends: Z-A at the levels specified.
+
+Lv.
+Move
+Type
+Cat.
+Power
+Acc.
+1	Growl	Normal	Status	—	100
+1	Quick Attack	Normal	Physical	40	100
+1	Tail Whip	Normal	Status	—	100
+1	Thunder Shock	Electric	Special	40	100
+4	Thunder Wave	Electric	Status	—	90
+12	Nuzzle	Electric	Physical	20	100
+16	Spark	Electric	Physical	65	100
+20	Charm	Fairy	Status	—	100
+25	Thunderbolt	Electric	Special	90	100
+30	Charge	Electric	Status	—	—
+35	Light Screen	Psychic	Status	—	—
+40	Thunder	Electric	Special	110	70
+99	Volt Tackle	Electric	Physical	120	100
+Moves learnt by reminder
+Pikachu learns the following extra moves when using the Remember Moves feature in Pokémon Legends: Z-A.
+
+Move
+Type
+Cat.
+Power
+Acc.
+Draining Kiss	Fairy	Special	50	100
+Moves learnt by TM
+Pikachu is compatible with these Technical Machines in Pokémon Legends: Z-A:
+
+TM
+Move
+Type
+Cat.
+Power
+Acc.
+08	Thunder Wave	Electric	Status	—	90
+10	Brick Break	Fighting	Physical	75	100
+16	Light Screen	Psychic	Status	—	—
+17	Protect	Normal	Status	—	—
+20	Play Rough	Fairy	Physical	90	90
+23	Thunder Punch	Electric	Physical	75	100
+27	Swift	Normal	Special	60	∞
+28	Dig	Ground	Physical	80	100
+31	Reflect	Psychic	Status	—	—
+32	Double Team	Normal	Status	—	—
+33	Body Slam	Normal	Physical	85	100
+35	Endure	Normal	Status	—	—
+39	Discharge	Electric	Special	80	100
+47	Agility	Psychic	Status	—	—
+66	Volt Switch	Electric	Special	70	100
+67	Thunderbolt	Electric	Special	90	100
+73	Surf	Water	Special	90	100
+83	Nasty Plot	Dark	Status	—	—
+85	Substitute	Normal	Status	—	—
+86	Wild Charge	Electric	Physical	90	100
+87	Iron Tail	Steel	Physical	100	75
+101	Electroweb	Electric	Special	55	95
+106	Thunder	Electric	Special	110	70
+109	Facade	Normal	Physical	70	100
+115	Trailblaze	Grass	Physical	50	100
+130	Charge Beam	Electric	Special	50	90
+141	Fake Out	Normal	Physical	40	100
+146	Skull Bash	Normal	Physical	130	100
+In other generations
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Pikachu sprites
+Type	Generation 1	Generation 2	Generation 3	Generation 4	Generation 5	Generation 6	Generation 7	Generation 8	Generation 9
+Normal	Pikachu sprite from Red & Blue	Pikachu sprite from Silver	Pikachu sprite from Ruby & Sapphire	Pikachu sprite from Diamond & Pearl	Pikachu sprite from Black & White	Pikachu sprite from X & Y	Pikachu sprite from Ultra Sun & Ultra Moon	Pikachu sprite from Sword & Shield	Pikachu sprite from Scarlet & Violet
+Shiny	—	Pikachu Shiny sprite from Silver	Pikachu Shiny sprite from Ruby & Sapphire	Pikachu Shiny sprite from Diamond & Pearl	Pikachu Shiny sprite from Black & White	Pikachu Shiny sprite from X & Y	Pikachu Shiny sprite from Ultra Sun & Ultra Moon	—	—
+See all Pikachu sprites
+Where to find Pikachu
+Red
+Blue	Power Plant, Viridian Forest
+Yellow	Pallet Town
+Gold
+Silver	Route 2
+Crystal	Route 2, Celadon City
+Ruby
+Sapphire	Safari Zone
+FireRed
+LeafGreen	Power Plant, Viridian Forest
+Emerald	Safari Zone
+Diamond
+Pearl
+Platinum	Trophy Garden
+HeartGold
+SoulSilver	Saffron City, Viridian Forest
+Black
+White
+Black 2
+White 2	Trade/migrate from another game
+X
+Y	Route 3, Santalune Forest
+Omega Ruby
+Alpha Sapphire	Safari Zone
+Sun
+Moon	Route 1, Hau'oli City
+Ultra Sun
+Ultra Moon	Route 1, Heahea City
+Let's Go Pikachu	Pallet Town, Viridian Forest
+Let's Go Eevee	Viridian Forest
+Sword
+Shield	Route 4, Stony Wilderness, Forest of Focus
+Brilliant Diamond
+Shining Pearl	Trophy Garden
+Legends: Arceus	Nature’s Pantry, Golden Lowlands
+Scarlet
+Violet	East Province (Area One), South Province (Area Two), South Province (Area Four), West Province (Area Three)
+Legends: Z-A	Location data not yet available
+Answers to Pikachu questions
+What is a good moveset for Pikachu?
+What level is Ash Ketchum's pikachu?
+How does Pikachu learn Volt Tackle?
+In Pokemon Red Version, my Pikachu never said it is trying to learn Thunderbolt it is level 32.
+Can the pikachu(french) traded to you from surge use the "madusa method"?
+How do I get the Pikachu colored Pichu?
+What Pokémon has Ash used the most besides Pikachu?
+Where can I get a flying/surfing pikachu?
+Are Meowth's and Pikachu's dex numbers reverses of each other on purpose? ?
+Has pikachu ever NOT been in an anime episode or movie as of 2018?
+
+View more questions on PokéBase »
+Other languages
+English	Pikachu
+Japanese	ピカチュウ (Pikachu)
+German	Pikachu
+French	Pikachu
+Italian	Pikachu
+Spanish	Pikachu
+Korean	피카츄 (pikachyu)
+Chinese (Simplified)	皮卡丘
+Chinese (Traditional)	皮卡丘
+ 
+English	Mouse Pokémon
+Japanese	ねずみポケモン
+German	Maus-Pokémon
+French	Pokémon Souris
+Italian	Pokémon Topo
+Spanish	Pokémon Ratón
+Korean	쥐포켓몬
+Chinese (Simplified)	鼠宝可梦
+Chinese (Traditional)	鼠寶可夢
+Name origin
+pikapika
+Japanese for a sparkle sound
+chu
+Japanese for a squeak sound
